@@ -15,7 +15,7 @@ def get_axis_and_angle(R):
     r33 = R[2,2]
     # calculate theta
     cosTheta = (r11+r22+r33-1)/2
-    print(cosTheta)
+    
     theta    = math.acos(cosTheta)
 
     if r32 - r23 > 0:
