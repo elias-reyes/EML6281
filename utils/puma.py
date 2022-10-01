@@ -1,5 +1,5 @@
 # file that is currently home to the class PUMA. Currently this class
-# creates a puma onject and allows for the forwardAnalysis method.
+# creates a puma object and allows for the forwardAnalysis method.
 # future improvement would include adding capability of reverse analysis 
 # and making the class work for any robot 
 
